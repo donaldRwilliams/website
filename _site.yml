@@ -1,4 +1,5 @@
 name: "website"
+theme: theme.css
 title: "my website"
 description: |
   my website
