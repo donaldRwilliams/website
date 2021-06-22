@@ -177,6 +177,11 @@ d-article a:hover, a:focus {
     margin-bottom: 0em;
 }
 
+.distill-site-header p {
+    margin-top: 1000em;
+}
+
+
 /* Pubs page */
 
 .pub {
@@ -221,6 +226,3 @@ d-article div.sourceCode {
   background-color: transparent;
 }
 
-p {
-    margin-top:-5px;
-}
