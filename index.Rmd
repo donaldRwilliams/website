@@ -1,6 +1,6 @@
 ---
 title: "Donald R. Williams"
-image: "donny.jpg"
+image: "Picture1.png"
 links:
   - label: '<i class="fas fa-file"></i> CV'
     url: "https://github.com/donaldRwilliams/website/raw/master/donny_cv.pdf"
