@@ -65,6 +65,7 @@ d-appendix {
   --text-size:        15px;
   --hover-color:      white;
   --bkgd-color:       #0F2E3D;
+    margin: 0 2px 0 2px;
 }
 
 .distill-site-footer {
@@ -90,8 +91,3 @@ d-appendix {
     color: var(--color-white);
 }
 
-#main-content p {
-
-margin: 0px 0px 5px 0px; 
-
-padding: 0px 0px 0px 0px;}
