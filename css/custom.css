@@ -178,7 +178,7 @@ d-article a:hover, a:focus {
 }
 
 .distill-site-header p {
-    margin-top: 1000em;
+    margin-top: 0em;
 }
 
 
@@ -196,6 +196,7 @@ d-article a:hover, a:focus {
 
 d-article img {
   margin-bottom: 10px;
+  margin-top: 1px;
 }
 
 
