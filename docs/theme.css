@@ -89,3 +89,9 @@ d-appendix {
     background-color: var(--color-secondary);
     color: var(--color-white);
 }
+
+#main-content p {
+
+margin: 0px 0px 5px 0px; 
+
+padding: 0px 0px 0px 0px;}
