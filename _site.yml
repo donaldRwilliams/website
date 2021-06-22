@@ -2,7 +2,7 @@ name: "website"
 theme: css/custom.css
 title: "DRW"
 description: |
-  my website
+  The personal website of Donald R. Williams
 output_dir: "docs"
 navbar:
   search: true
