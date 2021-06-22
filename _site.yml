@@ -1,5 +1,5 @@
 name: "website"
-theme: theme.css
+theme: css/custom.css
 title: "my website"
 description: |
   my website
