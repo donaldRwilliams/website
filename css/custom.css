@@ -81,6 +81,7 @@ d-appendix {
   --hover-color:      var(--color-secondary);
   --bkgd-color:       var(--color-background2);
   font-weight:        500;
+   margin: 0 2px 0 2px;
 }
 
 .distill-site-footer {
