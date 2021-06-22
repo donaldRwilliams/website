@@ -1,13 +1,15 @@
 name: "website"
 theme: css/custom.css
-title: "my website"
+title: "DRW"
 description: |
   my website
 output_dir: "docs"
 navbar:
-  right:
-    - text: "Home"
+  search: true
+  left:
+    - icon: fa-home
       href: index.html
+  right:
     - text: "About"
       href: about.html
     - text: "Article"
