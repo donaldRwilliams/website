@@ -2,7 +2,7 @@
 title: "Donald R. Williams"
 image: "donny.jpg"
 links:
-  - icon: fa fa-github 
+  - icon: fab fa-github 
     url: "https://github.com/donaldRwilliams"
   - label: Twitter
     url: "https://twitter.com/wdonald_1985"
