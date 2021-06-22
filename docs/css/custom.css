@@ -76,12 +76,12 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       24px;
+  --icon-size: 24;
   --text-color:       var(--color-primary);
   --text-size:        18px;
   --hover-color:      var(--color-secondary);
   --bkgd-color:       var(--color-background2);
   font-weight:        500;
-   margin: 0 2px 0 2px;
 }
 
 .distill-site-footer {
