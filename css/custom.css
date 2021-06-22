@@ -220,3 +220,7 @@ d-article div.sourceCode pre { /* Chunk code */
 d-article div.sourceCode {
   background-color: transparent;
 }
+
+p {
+    margin-top:-5px;
+}
