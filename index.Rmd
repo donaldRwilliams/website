@@ -10,7 +10,7 @@ links:
     url: "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en"
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: https://twitter.com/wdonald_1985
-base_url: https://donaldrwilliams.github.io/website
+base_url: https://donaldrwilliams.github.io/website/
 preview: "prev2.png"
 site: distill::distill_website
 output:
