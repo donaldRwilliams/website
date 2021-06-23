@@ -1,7 +1,6 @@
 ---
 title: "Donald R. Williams"
 image: "donny_pic.png"
-preview: "prev2.png"
 links:
   - label: '<i class="fas fa-file"></i> CV'
     url: "https://github.com/donaldRwilliams/website/raw/master/donny_cv.pdf"
@@ -11,6 +10,8 @@ links:
     url: "https://scholar.google.com/citations?user=IjPXPAMAAAAJ&hl=en"
   - label: '<i class="fab fa-twitter"></i> Twitter'
     url: https://twitter.com/wdonald_1985
+base_url: https://donaldrwilliams.github.io/website
+preview: "prev2.png"
 site: distill::distill_website
 output:
   postcards::trestles
