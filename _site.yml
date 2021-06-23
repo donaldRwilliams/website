@@ -9,8 +9,8 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - label: '<i class="fas fa-envelope-open"></i>'
-      url: "mailto:drwwiliams@ucdavis.edc"
+    - icon: fa-envelope-open
+      href: mailto:drwwiliams@ucdavis.edu
   right:
     - text: "Software"
       href: software.html
