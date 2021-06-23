@@ -1,8 +1,12 @@
 ---
 title: "Open-Source Software"
-toc: true
+output:
+  distill::distill_article:
+    toc: true
+    css:
+      - css/custom.css
 description: |
-  Software that I have developed for the R programming language.
+  Software that I have developed of the years.
 ---
 
 # Creator
